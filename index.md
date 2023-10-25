@@ -16,3 +16,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 
 ![Goodbye Image] (https://www.nicepng.com/png/full/702-7029151_goodbye-png-image-transparent-background.png)
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] This is my fourth
+
